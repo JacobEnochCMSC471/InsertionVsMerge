@@ -4,3 +4,5 @@ Implementation and comparison of recursive Merge Sort and Insertion Sort in Pyth
 As shown by the plots of array length vs time, merge sort is in almost every case faster than selection sort due to it's runtime of Θ(nlogn). Note that this definition of Θ indicates that the upper and lower bounds for merge sort are O(nlogn) and Ω(nlogn) respectively. 
 
 Created as part of a homework assignment for an algorithms class taken at UMBC. 
+
+![Alt text]([relative/path/to/img.jpg?raw=true](https://github.com/JacobEnochCMSC471/InsertionVsMerge/Insertion_Sort_Times.jpg) "Title")
