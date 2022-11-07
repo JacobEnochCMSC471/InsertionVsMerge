@@ -5,4 +5,4 @@ As shown by the plots of array length vs time, merge sort is in almost every cas
 
 Created as part of a homework assignment for an algorithms class taken at UMBC. 
 
-![Alt text]([relative/path/to/img.jpg?raw=true](https://github.com/JacobEnochCMSC471/InsertionVsMerge/Insertion_Sort_Times.jpg) "Title")
+![Alt text]([https://github.com/JacobEnochCMSC471/InsertionVsMerge/Insertion_Sort_Times.jpg?raw=true] "Title")
