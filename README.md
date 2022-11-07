@@ -6,7 +6,7 @@ As shown by the plots of array length vs time, merge sort is in almost every cas
 Created as part of a homework assignment for an algorithms class taken at UMBC. 
 
 <img
-  src="Insertion_Sort_Times.png"
+  src="Insertion_Sort_times.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
